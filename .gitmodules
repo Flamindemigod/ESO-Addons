@@ -1,0 +1,6 @@
+[submodule "LuiExtended"]
+	path = LuiExtended
+	url = git@github.com:Flamindemigod/LuiExtended.git
+[submodule "Fancy.Action.Bar.ESO"]
+	path = Fancy.Action.Bar.ESO
+	url = git@github.com:DakJaniels/Fancy.Action.Bar.ESO.git
