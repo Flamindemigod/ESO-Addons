@@ -4,3 +4,12 @@
 [submodule "Fancy.Action.Bar.ESO"]
 	path = Fancy.Action.Bar.ESO
 	url = git@github.com:DakJaniels/Fancy.Action.Bar.ESO.git
+[submodule "CFMUtils"]
+	path = CFMUtils
+	url = git@github.com:Flamindemigod/CFMUtils.git
+[submodule "MonkeSynergyBlocker"]
+	path = MonkeSynergyBlocker
+	url = git@github.com:Flamindemigod/MonkeSynergyBlocker.git
+[submodule "PrecastBlocker"]
+	path = PrecastBlocker
+	url = git@github.com:Flamindemigod/PrecastBlocker.git
